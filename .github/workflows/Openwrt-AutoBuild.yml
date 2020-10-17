@@ -3,6 +3,7 @@ name: Openwrt-AutoBuild
 on:
 #  release:
 #    types: [published]
+#
   push:
     branches:
       - main
